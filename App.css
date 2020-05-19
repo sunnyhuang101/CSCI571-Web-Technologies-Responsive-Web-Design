@@ -1,0 +1,52 @@
+.navbar-color{
+background-image: linear-gradient(to right, #1e2f55, #3e5ba4);
+}
+
+/*
+.card{
+  height:188px;
+  width:98%;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:10px;
+  margin-bottom:10px;
+  display:flex;
+  flex-direction: row;
+
+}
+
+.img-box{
+  height:160px;
+  width:240px;
+  margin-left: 13px;
+  margin-right: 13px;
+  margin-top:13px;
+  margin-bottom:13px;
+}
+
+.card-img{
+  width:97.5%;
+  height:97%;
+  margin:2px;
+  
+}
+
+.card-title{
+  font-size: 18px;
+  font-style:italic;
+}
+
+.date{
+font-style:italic; 
+float:left;
+}
+
+.tag{
+  float:right;
+  margin-right:15px;
+}
+*/
+.select-box{
+  width:200px;
+  background-color: white;
+}
