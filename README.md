@@ -1,13 +1,15 @@
 # News Search App - Responsive Web Design
 
 (CSCI571-Web Technologies Project) <br>
-Implemented a news app based on web and mobile device that demonstrated news of different categories and created a personalized bookmark for users to save articles and to share on their own social media. This implementation is based on responsive web design, so the pages look good for devices of different screen sizes. It also stores user data in LocalStorage, so that after an user close and then re-open the page, the news articles stored in bookmark section will still be there<br><br>
+Implemented a news app based on web and mobile device that demonstrated news of different categories and created a personalized bookmark for users to save articles and to share on their own social media. This implementation is based on responsive web design, so the pages look good for devices of different screen sizes. It also stores user data in HTML5 LocalStorage, so that after an user close and then re-open the page, the news articles stored in bookmark section will still be there<br><br>
 
 **Skills:** 
 **- Client Side: React, React-Bootstrap, HTML5, HTML, CSS**<br>
 **- Server Side: JavaScript, Node.js**<br>
 **- Other Skills Used: AJAX, JSON, Google Cloud App Engine, Responsive Web Design (RWD), LocalStorage, SessionStorage, Guardian News API, New York Times API, Comment-Box API, Bing Autosuggest API** <br>
-
+### Demo Video
+<a href="https://youtu.be/GZpt6qwC1ZI"><img src="./imgs/cover.png"  width="720" height="540" border="10"/></a>
+<br>
 ### Features
 ##### Main Page
 Main page includes a navigation bar with six news category sections: Home, World, Politics, Business, Technology, and Sports. A search bar, bookmark button, switch of news source, and a table of top news cells sorted from most recent published date
