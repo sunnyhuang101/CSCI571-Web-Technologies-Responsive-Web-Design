@@ -6,7 +6,7 @@ Implemented a news app based on web and mobile device that demonstrated news of 
 **Skills:** 
 **- Client Side: React, React-Bootstrap, HTML5, HTML, CSS**<br>
 **- Server Side: JavaScript, Node.js**<br>
-**- Other Skills Used: AJAX, JSON, Google Cloud App Engine, Responsive Web Design (RWD), LocalStorage, SessionStorage, Guardian News API, New York Times API, Comment-Box API, Bing Autosuggest API** <br>
+**- Other Skills Used: AJAX, JSON, Google Cloud App Engine, Responsive Web Design (RWD), HTML5 LocalStorage, Guardian News API, New York Times API, Comment-Box API, Bing Autosuggest API** <br>
 ### Demo Video
 <a href="https://youtu.be/GZpt6qwC1ZI"><img src="./imgs/cover.png"  width="720" height="540" border="10"/></a>
 <br>
