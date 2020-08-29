@@ -12,12 +12,12 @@ Implemented a news app based on web and mobile device that demonstrated news of 
 ##### Main Page
 Main page includes a search bar, a navigation bar, bookmark button, switch of news source, and a table of top news cells sorted from most recent published date
 <p align="center">
-	<img src="./imgs/guardian.png" width="600px" />
+	<img src="./imgs/guardian.png" width="700px" />
 </p>
 <br>
 Navigation bar of six news categories: Home, World, Politics, Business, Technology, and Sports, there is a category tag in button-right of each news cell<br><br>
 <p align="center">
-	<img src="./imgs/sports.png" width="500px" />
+	<img src="./imgs/sports.png" width="550px" />
 </p>
 <br>
 Users can also switch the news source from either Guardian News or New York Times in the top-right <br><br>
