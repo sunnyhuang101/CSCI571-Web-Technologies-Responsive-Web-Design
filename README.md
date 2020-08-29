@@ -14,14 +14,17 @@ Implemented a news app based on web and mobile device that demonstrated news of 
 <p align="center">
 	<img src="./imgs/guardian.png" width="600px" />
 </p>
+<br>
 - Navigation bar of six news categories: Home, World, Politics, Business, Technology, and Sports, there is a category tag in button-right of each news cell<br>
 <p align="center">
 	<img src="./imgs/sports.png" width="500px" />
 </p>
+<br>
 - Users can also switch the news source from either Guardian News or New York Times in the top-right <br>
 <p align="center">	
 	<img src="./imgs/nytimes.png" width="500px" />
 </p>
+<br>
 - Clicking the link icon of each news title allows users to share news on their own social media <br>
 <p align="center">	
 	<img src="./imgs/link.png" width="500px" />
